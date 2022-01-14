@@ -52,7 +52,7 @@
 			],
 			"fps": 12,
 			"anim": "danceLeft",
-			"indices": [],
+			"indices": [14,13,12,11,10,9,8,7,6,5,4,3,2,1],
 			"name": "TailsDoll IDLE instance"
 		},
 		{
