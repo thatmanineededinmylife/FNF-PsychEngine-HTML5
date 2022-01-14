@@ -121,7 +121,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Tails_Doll",
+	"image": "shared/images/characters/Tails_Doll",
 	"position": [
 		0,
 		0
