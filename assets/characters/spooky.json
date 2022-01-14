@@ -8,7 +8,7 @@
 			],
 			"anim": "hey",
 			"fps": 24,
-			"name": "spooky kids YEAH!!",
+			"name": "TailsDoll UP instance",
 			"indices": []
 		},
 		{
@@ -52,11 +52,7 @@
 			],
 			"fps": 12,
 			"anim": "danceLeft",
-			"indices": [
-				0,
-				2,
-				6
-			],
+			"indices": [],
 			"name": "TailsDoll IDLE instance"
 		},
 		{
@@ -67,12 +63,7 @@
 			],
 			"fps": 12,
 			"anim": "danceRight",
-			"indices": [
-				8,
-				10,
-				12,
-				14
-			],
+			"indices": [],
 			"name": "TailsDoll IDLE instance"
 		},
 		{
