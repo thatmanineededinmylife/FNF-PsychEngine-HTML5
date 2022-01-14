@@ -8,7 +8,7 @@
 			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"name": "Lost Silver Left finished",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			"loop": false,
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Dad Sing Note DOWN",
+			"name": "Silver Down Full",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			"loop": false,
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Dad Sing Note UP",
+			"name": "Full Silver Up",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"name": "Silver Right Finished",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "Dad idle dance",
+			"name": "Silver Idle",
 			"indices": []
 		},
 		{
@@ -123,15 +123,15 @@
 	"no_antialiasing": false,
 	"image": "characters/DADDY_DEAREST",
 	"position": [
-		0,
+		-125,
 		0
 	],
-	"healthicon": "dad",
+	"healthicon": "face",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		205,
+		205,
+		205
 	],
 	"camera_position": [
 		0,
